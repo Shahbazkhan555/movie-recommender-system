@@ -2,9 +2,7 @@
 
 ## Demo Video
 
-## Demo Video
-
-![Movie Recommender System Demo](demo.gif)
+![Movie Recommender System Demo](movie-recommender-demo.gif)
 
 
 ## Overview
